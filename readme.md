@@ -1,4 +1,6 @@
-# FizzBuzz
+# FizzBuzz TDD
+
+Simulaçao da brincadeira fizzbuzz utilizando TDD com PHPunit.
 
 ###Regras
 
